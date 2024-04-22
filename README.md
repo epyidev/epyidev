@@ -1,5 +1,5 @@
 <p>
-  <h1>Hey les boy'z and girl'z ! 👋</h1>
+  <h1>Hey boy'z and girl'z ! 👋</h1>
   <h2>About me</h2>
   <ul>
     <li>Developper on <a href="https://fivem.net/">FiveM</a></li>
