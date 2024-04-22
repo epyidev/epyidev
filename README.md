@@ -1,22 +1,19 @@
-### Hi there 👋
-
-<p align = 'center'>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=epyidev&layout=compact&theme=github_dark&hide_border=true"
-  />
+<p>
+  <h1>Hey les boy'z and girl'z ! 👋</h1>
+  <ul>
+    <li>Working on <a href="lyre.tebex.io">Lyre Scripts</a></li>
+    <li>Owner of <a href="https://discord.gg/VyRPheG6Es">Work FiveM Community</a></li>
+    <li>Translaton Team at <a href="https://github.com/esx-framework">ESX Framework</a></li>
+  </ul>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=epyidev&show_icons=true&theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=epyidev&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=epyidev&show_icons=true" />
+  </picture>
 </p>
-
-<!--
-**epyidev/epyidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
