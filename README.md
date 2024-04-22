@@ -1,16 +1,16 @@
 <p>
-  <h1>Hey boy'z and girl'z ! 👋</h1>
+  <h1>Hey les boy'z and girl'z ! 👋</h1>
   <h2>About me</h2>
   <ul>
-    <li>Developper on <a href="https://fivem.net/">FiveM</a></li>
+    <li>Développeur sur <a href="https://fivem.net/">FiveM</a></li>
     <li>Age: NaN</li>
-    <li>Location: Localhost</li>
+    <li>Localisation: Localhost</li>
   </ul>
   <h2>Active projects</h2>
   <ul>
-    <li>Working on <a href="lyre.tebex.io">Lyre Scripts</a></li>
-    <li>Owner of <a href="https://discord.gg/VyRPheG6Es">Work FiveM Community</a></li>
-    <li>Translaton Team at <a href="https://github.com/esx-framework">ESX Framework</a></li>
+    <li>Travaille sur <a href="lyre.tebex.io">Lyre Scripts</a></li>
+    <li>Gérant de <a href="https://discord.gg/VyRPheG6Es">Work FiveM Community</a></li>
+    <li>Translaton Team chez <a href="https://github.com/esx-framework">ESX Framework</a></li>
   </ul>
   <picture>
     <source
