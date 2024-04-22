@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align = 'center'>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=epyidev&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
+
 <!--
 **epyidev/epyidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
