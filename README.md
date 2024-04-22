@@ -1,5 +1,12 @@
 <p>
   <h1>Hey les boy'z and girl'z ! 👋</h1>
+  <h2>About me</h2>
+  <ul>
+    <li>Developper on <a href="https://fivem.net/">FiveM</a></li>
+    <li>Age: Something</li>
+    <li>Location: Localhost</li>
+  </ul>
+  <h2>Active projects</h2>
   <ul>
     <li>Working on <a href="lyre.tebex.io">Lyre Scripts</a></li>
     <li>Owner of <a href="https://discord.gg/VyRPheG6Es">Work FiveM Community</a></li>
