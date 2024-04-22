@@ -3,7 +3,7 @@
   <h2>About me</h2>
   <ul>
     <li>Developper on <a href="https://fivem.net/">FiveM</a></li>
-    <li>Age: Something</li>
+    <li>Age: NaN</li>
     <li>Location: Localhost</li>
   </ul>
   <h2>Active projects</h2>
