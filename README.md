@@ -12,6 +12,7 @@
     <li>Owner of <a href="https://discord.gg/VyRPheG6Es">Work FiveM Community</a></li>
     <li>Translaton Team at <a href="https://github.com/esx-framework">ESX Framework</a></li>
   </ul>
+  <br/>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=epyidev&show_icons=true&theme=dark"
