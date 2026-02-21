@@ -8,7 +8,7 @@
   </ul>
   <h2>Active projects</h2>
   <ul>
-    <li>Working on <a href="lyre.tebex.io">Lyre Scripts</a></li>
+    <li>Working on <a href="https://lyrescripts.com/">Lyre Scripts</a></li>
     <li>Owner of <a href="https://discord.gg/VyRPheG6Es">Work FiveM Community</a></li>
     <li>Translaton Team at <a href="https://github.com/esx-framework">ESX Framework</a></li>
   </ul>
