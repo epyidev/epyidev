@@ -1,27 +1,56 @@
+<div align="center">
+
+<img src="assets/torii-banner.gif" width="460" />
+
+# Hey boy'z and girl'z ! 👋
+
+**Epyi** &nbsp;·&nbsp; エピたそえもん
+
+</div>
+
+### 　人 &nbsp;About
+
+- Dev **[FiveM](https://fivem.net/)** en Lua depuis ~9 ans
+- Dev **Minecraft**, mods Java / Forge
+- Age: **NaN** &nbsp;·&nbsp; Location: **Localhost**
+
+<div align="center">
+<img src="assets/katana-divider.gif" width="392" />
+</div>
+
+### 　組 &nbsp;Organizations
+
+- **[@lyrescripts](https://github.com/lyrescripts)** &nbsp;·&nbsp; boutique de scripts FiveM premium
+- **[@EsperiaRp](https://github.com/EsperiaRp)** &nbsp;·&nbsp; la référence du roleplay sur Minecraft
+- **[@ClanscraftMC](https://github.com/ClanscraftMC)** &nbsp;·&nbsp; serveur Minecraft PvP faction revisité
+- **[@unleashedprojectfivem](https://github.com/unleashedprojectfivem)** &nbsp;·&nbsp; serveur FiveM post-apo
+- **[@Back-To-Roleplay](https://github.com/Back-To-Roleplay)** &nbsp;·&nbsp; serveur FiveM
+- **[@yourscript](https://github.com/yourscript)** &nbsp;·&nbsp; boutique de scripts FiveM d'un ami, [gtolontop](https://github.com/gtolontop)
+
+<div align="center">
+<img src="assets/katana-divider.gif" width="392" />
+</div>
+
+### 　具 &nbsp;Stack
+
 <p>
-  <h1>Hey boy'z and girl'z ! 👋</h1>
-  <h2>About me</h2>
-  <ul>
-    <li>Developper on <a href="https://fivem.net/">FiveM</a></li>
-    <li>Age: <strong>NaN</strong></li>
-    <li>Location: <strong>Localhost</strong></li>
-  </ul>
-  <h2>Active projects</h2>
-  <ul>
-    <li>Working on <a href="https://lyrescripts.com/">Lyre Scripts</a></li>
-    <li>Owner of <a href="https://discord.gg/VyRPheG6Es">Work FiveM Community</a></li>
-    <li>Translaton Team at <a href="https://github.com/esx-framework">ESX Framework</a></li>
-  </ul>
-  <br/>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=epyidev&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=epyidev&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=epyidev&show_icons=true" />
-  </picture>
+  <img src="https://img.shields.io/badge/Lua-1a1a1a?style=flat-square&logo=lua&logoColor=8b949e" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=8b949e" />
+  <img src="https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=8b949e" />
+  <img src="https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=8b949e" />
+  <img src="https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=8b949e" />
+  <img src="https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=8b949e" />
 </p>
+
+<div align="center">
+<img src="assets/katana-divider.gif" width="392" />
+</div>
+
+### 　縁 &nbsp;Links
+
+- [lyrescripts.com](https://lyrescripts.com/)
+- [Work FiveM Community](https://discord.gg/VyRPheG6Es) &nbsp;·&nbsp; Discord
+
+<div align="center">
+<img src="assets/katana-divider.gif" width="392" />
+</div>
