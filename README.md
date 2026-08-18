@@ -4,8 +4,6 @@
 
 # Hey boy'z and girl'z ! 👋
 
-**Epyi** &nbsp;·&nbsp; エピたそえもん
-
 </div>
 
 ### 　人 &nbsp;About
