@@ -20,6 +20,7 @@
 
 - **[@lyrescripts](https://github.com/lyrescripts)** &nbsp;·&nbsp; boutique de scripts FiveM premium
 - **[@EsperiaRp](https://github.com/EsperiaRp)** &nbsp;·&nbsp; la référence du roleplay sur Minecraft
+- **[@GameWorkersArea](https://github.com/gameworkersarea)** &nbsp;·&nbsp; communauté de développeurs de mods pour FiveM et autres jeux
 - **[@ClanscraftMC](https://github.com/ClanscraftMC)** &nbsp;·&nbsp; serveur Minecraft PvP faction revisité
 - **[@unleashedprojectfivem](https://github.com/unleashedprojectfivem)** &nbsp;·&nbsp; serveur FiveM post-apo
 - **[@Back-To-Roleplay](https://github.com/Back-To-Roleplay)** &nbsp;·&nbsp; serveur FiveM
