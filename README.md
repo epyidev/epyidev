@@ -48,7 +48,7 @@
 ### 　縁 &nbsp;Links
 
 - [lyrescripts.com](https://lyrescripts.com/)
-- [Work FiveM Community](https://discord.gg/VyRPheG6Es) &nbsp;·&nbsp; Discord
+- [Game Workers Area Community](https://discord.gg/VyRPheG6Es) &nbsp;·&nbsp; Discord
 
 <div align="center">
 <img src="assets/katana-divider.gif" width="392" />
