@@ -18,13 +18,14 @@
 
 ### 　組 &nbsp;Organizations
 
-- **[@lyrescripts](https://github.com/lyrescripts)** &nbsp;·&nbsp; boutique de scripts FiveM premium
-- **[@EsperiaRp](https://github.com/EsperiaRp)** &nbsp;·&nbsp; la référence du roleplay sur Minecraft
-- **[@GameWorkersArea](https://github.com/gameworkersarea)** &nbsp;·&nbsp; communauté de développeurs de mods pour FiveM et autres jeux
-- **[@ClanscraftMC](https://github.com/ClanscraftMC)** &nbsp;·&nbsp; serveur Minecraft PvP faction revisité
-- **[@unleashedprojectfivem](https://github.com/unleashedprojectfivem)** &nbsp;·&nbsp; serveur FiveM post-apo
-- **[@Back-To-Roleplay](https://github.com/Back-To-Roleplay)** &nbsp;·&nbsp; serveur FiveM
-- **[@yourscript](https://github.com/yourscript)** &nbsp;·&nbsp; boutique de scripts FiveM d'un ami, [gtolontop](https://github.com/gtolontop)
+- **[@lyrescripts](https://github.com/lyrescripts)** &nbsp;·&nbsp; Boutique de scripts FiveM premium
+- **[@EsperiaRp](https://github.com/EsperiaRp)** &nbsp;·&nbsp; La référence du roleplay sur Minecraft
+- **[@GameWorkersArea](https://github.com/gameworkersarea)** &nbsp;·&nbsp; Communauté de développeurs de mods pour FiveM et autres jeux
+- **[@ClanscraftMC](https://github.com/ClanscraftMC)** &nbsp;·&nbsp; Serveur Minecraft PvP faction revisité
+- **[@MetropiaRP](https://github.com/metropiarp)** &nbsp;·&nbsp; Serveur Minecraft Roleplay médieval fantastique
+- **[@unleashedprojectfivem](https://github.com/unleashedprojectfivem)** &nbsp;·&nbsp; Serveur FiveM post-apo
+- **[@Back-To-Roleplay](https://github.com/Back-To-Roleplay)** &nbsp;·&nbsp; Serveur FiveM
+- **[@yourscript](https://github.com/yourscript)** &nbsp;·&nbsp; Boutique de scripts FiveM d'un ami, [gtolontop](https://github.com/gtolontop)
 
 <div align="center">
 <img src="assets/katana-divider.gif" width="392" />
@@ -49,6 +50,8 @@
 
 - [lyrescripts.com](https://lyrescripts.com/)
 - [Game Workers Area Community](https://discord.gg/VyRPheG6Es) &nbsp;·&nbsp; Discord
+- [Metropia Roleplay](https://metropia.fr/) &nbsp;·&nbsp; Site internet
+- [Clanscraft](https://clanscraft.fr/) &nbsp;·&nbsp; Site internet
 
 <div align="center">
 <img src="assets/katana-divider.gif" width="392" />
