@@ -19,7 +19,7 @@
 ### 　組 &nbsp;Organizations
 
 - **[@LyreScripts](https://github.com/lyrescripts)** &nbsp;·&nbsp; Boutique de scripts FiveM premium
-- **[@LetsBlox](https://github.com/letsblox)** &nbsp;·&nbsp; Un studio créant des jeux Roblox
+- **[@LetsBlox](https://github.com/letsblox)** &nbsp;·&nbsp; Studio créant des jeux Roblox
 - **[@EsperiaRp](https://github.com/EsperiaRp)** &nbsp;·&nbsp; La référence du roleplay sur Minecraft
 - **[@ClanscraftMC](https://github.com/ClanscraftMC)** &nbsp;·&nbsp; Serveur Minecraft PvP faction revisité
 - **[@MetropiaRP](https://github.com/metropiarp)** &nbsp;·&nbsp; Serveur Minecraft Roleplay médieval fantastique
